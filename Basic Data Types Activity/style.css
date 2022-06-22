@@ -1,0 +1,15 @@
+.inner {
+  width: 50vw;
+  transform: translate(25vw);
+}
+
+.swiper {
+  overflow-x: hidden;
+}
+
+.swiper .swiper-slide{
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
